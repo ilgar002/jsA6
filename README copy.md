@@ -1,14 +1,10 @@
+# BOOKSHOP PROJECT 🖼️
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Indie+Flower&family=Lobster&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
-        rel="stylesheet">
     <title>Document</title>
 </head>
 
@@ -27,9 +23,8 @@
     </select>
     <h2>Collect & buy the best Books in Baku</h2>
     <hr>
-    <p>Book store has been an online sales site with active sales and fast delivery in Azerbaijan for more than 10
-        years.</p>
-    <img width="400" height="200" src="/images/product.png" alt="Books">
+    <p>Book store has been an online sales site with active sales and fast delivery in Azerbaijan for more than 10 years.</p>
+    <img width="400" height="200" src="./product.png" alt="Books">
     <div>19.99 AZN</div>
     <br>
     <h3>Contact to us</h3>
@@ -41,7 +36,7 @@
         <li><a href="https://www.linkedin.com/">Linkedin</a></li>
         <li><a href="https://medium.com/">Medium</a></li>
     </ul>
-    <footer>&copy; 2023 Book Store,Inc.All Rights Reserved</footer>
+    <p>&copy; 2023 Book Store,Inc.All Rights Reserved</p>
 
 </body>
 

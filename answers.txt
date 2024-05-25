@@ -1,0 +1,52 @@
+1. What is the GIT?
+Git mənbə kodunun idarə edilməsi üçün istifadə olunan DevOps alətidir.
+
+2. Why we use it?
+Git fayllardakı dəyişiklikləri izləyir, lazım olduqda tərtibatçılara əvvəlki versiyalara qayıtmağa imkan verir. Git birdən çox tərtibatçıya eyni layihə üzərində eyni vaxtda işləməyə imkan verir. Git açıq mənbəli proqramdır, hər kəs istifadə edə bilər.
+
+3. What is the GITHub?
+GitHub, Git repozitoriyaları üçün hostinq və proqram təminatının inkişaf etdirilməsi layihələri üçün bir sıra əməkdaşlıq xüsusiyyətlərini təmin edən Git üzərində qurulmuş veb əsaslı platformadır.
+
+4. How the web browser works.
+Veb-brauzer istifadəçilərə internetdəki məzmuna daxil olmaq və onlarla qarşılıqlı əlaqə yaratmaqda mühüm rol oynayır.
+
+5. What are HTML tags for?
+HTML teqləri veb səhifələrdə məzmunu strukturlaşdırmaq və formatlaşdırmaq üçün istifadə olunur.
+
+6. What are Attributes for?
+HTML-dəki atributlar HTML elementləri haqqında əlavə məlumat vermək üçün istifadə olunur.
+
+7. What is meta tags
+Meta teqlər veb səhifə haqqında metadata təmin edən HTML elementləridir. Onlar HTML sənədinin <head> bölməsində yerləşdirilir və veb-brauzerdə səhifəyə baxdıqda istifadəçilərə görünmür.
+
+8. What are the semantic tags and why i need to use it
+Semantik HTML teqləri məzmunun necə tərtib olunmalı və ya təqdim edilməli olduğunu göstərmək əvəzinə, əhatə etdikləri məzmuna məna verən elementlərdir. Semantik teqlər məzmunun məqsədini və ya rolunu təsvir edərək onu həm insanlar, həm də maşınlar üçün daha başa düşülən edir.
+
+9. What does CSS do?
+CSS, yəni "Cascading Style Sheets", veb səhifələrin görünüşünü tənzimləmək üçün istifadə olunan bir dildir.
+
+10. What are CSS selectors for?
+CSS seçiciləri HTML elementlərini seçmək və onlara müxtəlif görünüş və davranış təyin etmək üçündür.
+
+11. Css usage methods. Advantages and disadvantages of these methods.
+1) İnternal CSS:
+Üstünlüklər:
+Birdən çox səhifədə istifadə olunan təyinatları birlikdə saxlamaq asandır.
+HTML faylının özü ilə birlikdə gəlir, buna görə ayrıca fayl yüklənməsə gərək yoxdur.
+Mənfi cəhətlər:
+CSS və HTML kodları bir-birinə qarışır, buna görə təmiz olmayan kod nizamlama problemlərinə səbəb ola bilər.
+CSS qaydalarını yenidən istifadə etmək çətindir və yenidən istifadə edilə biləcək deyil.
+2) External CSS:
+Üstünlüklər:
+Təmiz və qurulu bir kod təşkil edir, çünki CSS kodu ayrı bir faylda saxlanılır.
+Bir sıra səhifələrdə eyni təyinatları istifadə etmək mümkündür.
+Mənfi cəhətlər:
+Ayrıca bir HTTP istəyi üçün faylın yüklənməsi lazımdır.
+Fərqli bir fayla daxil olmaq və yüklənmə zamanı gecikmə olacaq.
+3) Inline CSS:
+Üstünlüklər:
+Elementin özündən təyin edilir, buna görə zəif öncəlikə malikdir.
+Tez təyin olunur və CSS kodunu götürmək və yerləşdirmək asandır.
+Mənfi cəhətlər:
+Təmiz və nizamlı bir kod yaratmağı çətindir və səhifənin kodunu dağıdır.
+Birdən çox element üçün eyni təyinatları tətbiq etmək çətindir və yenidən istifadə etmək 
